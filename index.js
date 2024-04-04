@@ -57,8 +57,4 @@ function bienvenida() {
      Resultado3.innerHTML = '¡' +texto1+ '!'
 }
 
-//let boton = document.querySelector ('#calcu')
-
-//boton.style.backgruound.color = 'red'
-
 
